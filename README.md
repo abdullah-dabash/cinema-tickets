@@ -104,4 +104,4 @@ Our team of 5 members employed Agile methodology over 5 days to develop StarCine
 
 ## Trello Board
 
-- [Trello Board]([https://trello.com/b/p7AOcCNJ/podcast](https://trello.com/b/snEHpfA9/cinema-tickets-website))
+- [Trello Board](https://trello.com/b/snEHpfA9/cinema-tickets-website)
