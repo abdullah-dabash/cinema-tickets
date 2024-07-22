@@ -95,7 +95,7 @@ Our team of 5 members employed Agile methodology over 5 days to develop StarCine
 
 ## Live Demos
 
-- [WebPage Live Demo]()
+- [WebPage Live Demo](https://cinema-tickets-s5hk.vercel.app/)
 - [Dashboard Live Demo](https://star-cinemas-admin-dashboard.vercel.app/)
 
 ## Figma Demo
