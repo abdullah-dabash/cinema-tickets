@@ -40,7 +40,7 @@ const Profile = () => {
                     htmlFor="username"
                     className="block text-white mt-2 text-lg font-Caveat"
                   >
-                    Username:
+                    Email:
                   </label>
                   <input
                     type="text"
@@ -51,19 +51,7 @@ const Profile = () => {
                   />
                 </div>
                 <div className="mb-4">
-                  <label
-                    htmlFor="email"
-                    className="block text-white mt-2 text-lg font-Caveat"
-                  >
-                    Email:
-                  </label>
-                  <input
-                    type="email"
-                    id="email"
-                    value={email}
-                    onChange={(e) => setEmail(e.target.value)}
-                    className=" block w-full px-3 py-2 border bg-transparent mt-3 border-gray-200 rounded-md shadow-sm text-gray-400 focus:outline-none focus:border-blue-900"
-                  />
+                  
                   <label
                     htmlFor="password"
                     className="block text-white mt-2 text-lg font-Caveat"
