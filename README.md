@@ -67,6 +67,15 @@ Administrators have access to:
 
 ## Implementation and Learning Methods
 
+## User Roles
+
+- ** Abdullh dabash - Scrum Master, Web Developer
+- ** Aya Rimawi - Quality Assurance, Web Developer
+- ** Abdalrahman alwabarneh - Product Owner, Web Developer
+- ** Abedalmajeed Alajarmah - Web Developer
+- ** Abdullah Al-Jabour - Web Developer
+
+
 Our team of 5 members employed Agile methodology over 5 days to develop StarCinema. We utilized roles such as Scrum master, product owner, QA, and developers. Task prioritization and tracking were managed through Trello, ensuring alignment with project goals and timelines. We conducted daily standup meetings and engaged in Q&A sessions with trainers for continuous improvement.
 
 ## Assessment
@@ -75,3 +84,24 @@ Our team of 5 members employed Agile methodology over 5 days to develop StarCine
 - **Individual Assessment**: One-on-one evaluations with trainers to assess contributions.
 - **Presentation**: Demonstration of project outcomes and effective communication skills during the final presentation.
 
+## Tools Used
+
+- React
+- Tailwind
+- HTML
+- Firebase
+- Figma
+- Trello
+
+## Live Demos
+
+- [WebPage Live Demo]()
+- [Dashboard Live Demo](https://star-cinemas-admin-dashboard.vercel.app/)
+
+## Figma Demo
+
+- [Figma Demo](https://www.figma.com/design/qPpnrRLxYkc8ZefCCXAfl6/Untitled?node-id=0-1&t=dlOI8N3IkDnbfzBr-0)
+
+## Trello Board
+
+- [Trello Board]([https://trello.com/b/p7AOcCNJ/podcast](https://trello.com/b/snEHpfA9/cinema-tickets-website))
